@@ -7,6 +7,7 @@ We explore different deep learning techniques in order to build a high accuracy 
 
 Dataset: State Farm Distracted Driver Detection (available on Kaggle- https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 Training set ~22.4 K and 79.7 K unlabeled test samples. This is a publicly available dataset from State-Farm. It consists of images of driver doing 1 of 10 actions listed below.
+
 10 classes(driver actions):
 1.	safe driving
 2.	texting - right
