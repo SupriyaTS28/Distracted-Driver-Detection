@@ -27,3 +27,6 @@ The three proposed methods are:
 1. Data Augmentation: Train a model from scratch with augmented data
 2. Transfer Learning:  Use a pre-trained model and fine tune it.
 3. Semi-supervised Learning: Use semi-supervised approach to utilize the 79.7 K unlabeled samples.
+
+# Team
+Bhagya Shree Kottoori, Rosa Ku, Supriya Tumkur Suresh Kumar
