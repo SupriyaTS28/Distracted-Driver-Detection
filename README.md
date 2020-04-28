@@ -20,7 +20,7 @@ Training set ~22.4 K and 79.7 K unlabeled test samples. This is a publicly avail
 9.	hair and makeup
 10.	talking to passenger
 
-# Methods
+Methods:
 In this project we compare three approaches to solve an Image classification problem with small labeled dataset.
 
 The three proposed methods are:
