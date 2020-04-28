@@ -19,3 +19,11 @@ Training set ~22.4 K and 79.7 K unlabeled test samples. This is a publicly avail
 8.	reaching behind
 9.	hair and makeup
 10.	talking to passenger
+
+# Methods
+In this project we compare three approaches to solve an Image classification problem with small labeled dataset.
+
+The three proposed methods are:
+1. Data Augmentation: Train a model from scratch with augmented data
+2. Transfer Learning:  Use a pre-trained model and fine tune it.
+3. Semi-supervised Learning: Use semi-supervised approach to utilize the 79.7 K unlabeled samples.
